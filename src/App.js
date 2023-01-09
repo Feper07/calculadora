@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import freeCodeCampLogo from "./imagenes/logo.png";
 import Boton from "./componentes/Boton";
